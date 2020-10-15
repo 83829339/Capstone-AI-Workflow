@@ -5,8 +5,6 @@ I ve included all the files for my AI Enterprise Workflow Capstone project.
 
 ### Directories included:
 
-**data/cs-train**: all provided data to train the model
-
 **models**: some trained models and tested models saved for prediction
 
 **logs**: logs created during test-training-prediction
